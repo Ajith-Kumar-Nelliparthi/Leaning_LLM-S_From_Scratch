@@ -1,3 +1,4 @@
+![alt text](image.png)
 ## Attention!
 - Finished chapter 3 of [Build a Large Language Model (From Scratch)](https://www.manning.com/books/build-a-large-language-model-from-scratch)
 
