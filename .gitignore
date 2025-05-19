@@ -176,3 +176,4 @@ gpt/
 *.csv
 *.zip
 *.tsv
+review_classifier.pth
