@@ -177,3 +177,5 @@ gpt/
 *.zip
 *.tsv
 review_classifier.pth
+# Ignore GPT-2 124M model files
+Day_05(finetuning)/gpt2/124M/
