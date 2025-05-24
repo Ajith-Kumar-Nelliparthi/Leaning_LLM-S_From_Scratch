@@ -1,4 +1,4 @@
-![alt text](image.png)
+![alt text](image-1.png)
 # Knowledge Distillation
 - read the paper: [Knowledge Distillation](https://arxiv.org/abs/2402.13116)
 
